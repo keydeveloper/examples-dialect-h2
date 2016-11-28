@@ -37,3 +37,8 @@ Create a JAR file from your project and copy it to *C:\Program Files\KeyDevelope
 As mentioned above, the config file must be copied to your user directory as well.
 
 You can now start KeyDeveloper from the Start menu and use your plugin.
+
+## Using the plugin
+
+After deploying the plugin, you can create new models using the H2 dialect. When editing
+tables on an H2 model, only the relevant data types will be available.
