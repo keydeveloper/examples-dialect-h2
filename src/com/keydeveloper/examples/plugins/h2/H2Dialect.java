@@ -1,13 +1,16 @@
-package com.keydeveloper.plugins.h2;
+package com.keydeveloper.examples.plugins.h2;
 
 import com.keydeveloper.api.plugins.Dialect;
 import com.keydeveloper.domain.dialect.DialectConfig;
 
 /**
- * H2 dialect. This is a minimal, but working, example. See config/dialect.h2.config
- * for an example on how to define dialect data types.
+ * This is a minimal database dialect example, targeting the H2 database.
+ * <p>>
+ * The data types for H2 are defined in config/dialect.h2.config.
  * <p>
- * This example can be extended by overriding Dialect methods.
+ * See the GitHub README file for information about building and installing the plugin.
+ * <p>
+ * This example can be extended by overriding the Dialect methods.
  */
 public class H2Dialect extends Dialect
 {
