@@ -7,7 +7,7 @@ point for your own dialect plugins.
 
 ## Building
 
-Clone the *examples-dialect-h2* repository and import the *src* directory into your favorite Java IDE. 
+Clone this repository and import the *src* directory into your favorite Java IDE. 
 
 IntelliJ IDEA, Eclipse and Netbeans all works fine. You can obviously use any suitable build tool as well, such
 as Gradle, Maven and Ant.
